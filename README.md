@@ -1,18 +1,36 @@
-## Getting Started
+# 02 **Calculadora de Números Perfectos**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Instrucción:**
+Escribe un programa que verifique si un número ingresado por el usuario es un número perfecto. Un número perfecto es aquel que es igual a la suma de sus divisores propios positivos (excluyendo el mismo número). Adicionalmente, el programa debe encontrar todos los números perfectos en un rango especificado por el usuario.
 
-## Folder Structure
+variables: numero, rango, modulo 
+primero importamos el scanner luego pedimos al usuario que ingrese el numero mediante un "system.out.print" para una salida que diga "Ingrese un número para verificar si es perfecto: " y scanner.nextInt() para que pueda ingresar el numero. 
 
-The workspace contains two folders by default, where:
+ahora usamos un if el cual si es numero perfecto tendra como salida (es numero perfecto) y si no va el (else) que dira lo contrario 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+luego el usuario dira un rango para encontar los numero perfectos el cual debe ser inferior 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+     
